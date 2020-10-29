@@ -1,4 +1,5 @@
-
+import instantsearch from 'instantsearch.js';
+import algoliasearch from 'algoliasearch';
 import { configure, hits, searchBox, index } from 'instantsearch.js/es/widgets';
 
 import {
