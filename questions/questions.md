@@ -40,6 +40,8 @@ Hello Matt,
 
 I am sorry to hear you are unhappy with the new dashboard design but feedback of any kind is always useful.  While Algolia doesn’t provide a direct method to delete multiple indices at once you can however write your own script using our API clients to loop through and delete the indices you want. This information can be found here.
 
+https://www.algolia.com/doc/guides/sending-and-managing-data/manage-your-indices/how-to/delete-multiple-indices/
+
 Let me know if you would like to schedule time to discuss.
 
 Thanks,
